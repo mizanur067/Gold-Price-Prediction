@@ -1,0 +1,19 @@
+git init
+git add .
+git commit -m "Initial commit"
+ git remote add origin https://github.com/mizan1235/weather_forcast.git 
+ git push -u origin master
+git branch -M main
+git push -u origin main --force 
+
+ npm install gh-pages --save-dev
+      make change on packet.json
+git add.
+git commit -m "Initial commit"
+git push
+npm run deploy
+
+
+
+
+gh auth login
